@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "26a7eef67926955a",
+    "type": "split",
+    "children": [
+      {
+        "id": "46023e4e99509646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf290bbba63018e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diario/Dia-23-06-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03e17eff443e2ad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa031c3623d375a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a4d6b78749d334",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff678066990974b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4a18e5136465f78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6e1651073c09df5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "850bf0d3170e542a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fd391d3b1e8d60a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diario/Dia-23-06-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ff4df78c4e25959",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diario/Dia-23-06-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37c9fabb8cae2d03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a2945fc2c8670da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diario/Dia-23-06-2024.md"
+              }
+            }
+          },
+          {
+            "id": "a69160ac2536843a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "cf290bbba63018e7",
+  "lastOpenFiles": [
+    "Front-end/length.md",
+    "Diario/Dia-23-06-2024.md"
+  ]
+}

@@ -1,4 +1,4 @@
-Em JavaScript, o método `.push()` é fundamental para adicionar um ou mais elementos ao final de um [[Variáveis Compostas]] ou arrays. Ele modifica o array original e retorna o novo comprimento do array após a adição dos elementos. Aqui está um exemplo simples de como usar o `.push()`:
+Em [[Javascript]], o método `.push()` é fundamental para adicionar um ou mais elementos ao final de um ou arrays. Ele modifica o array original e retorna o novo comprimento do array após a adição dos elementos. Aqui está um exemplo simples de como usar o `.push()`:
 
 ```
 let frutas = ['maçã', 'banana'];

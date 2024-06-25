@@ -1,4 +1,4 @@
-Em JavaScript, o conceito de "length" é amplamente utilizado em várias estruturas de dados compostas, como arrays e  strings.  [[Variáveis Compostas]] ,Aqui estão alguns exemplos de como o comprimento é usado em diferentes contextos:
+Em [[Javascript]], o conceito de "length" é amplamente utilizado em várias estruturas de dados compostas, como arrays e  strings.  ,Aqui estão alguns exemplos de como o comprimento é usado em diferentes contextos: 
 ### Arrays:
 
 Em arrays, o comprimento se refere ao número de elementos que o array contém. Você pode acessar o comprimento de um array utilizando a propriedade `length`. Por exemplo:

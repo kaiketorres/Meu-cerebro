@@ -1,4 +1,4 @@
-O método `indexOf()` em JavaScript é usado para encontrar a primeira ocorrência de um elemento em um [[Variáveis Compostas]] array ou uma substring em uma string e retorna o índice dessa ocorrência. Aqui está um resumo sucinto:
+O método `indexOf()` em [[Javascript]]é usado para encontrar a primeira ocorrência de um elemento em um array ou uma substring em uma string e retorna o índice dessa ocorrência. Aqui está um resumo sucinto:
 
 **Em Arrays**:
 

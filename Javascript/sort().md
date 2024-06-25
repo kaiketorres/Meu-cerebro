@@ -1,4 +1,4 @@
-O método `sort()` em [[Variáveis Compostas]] , como arrays em JavaScript, é usado para ordenar os elementos. Por padrão, ele ordena em ordem alfabética ou por valores Unicode. Para ordenação numérica ou personalizada, é necessário fornecer uma função de comparação como argumento. É importante lembrar que `sort()` altera o array original e não retorna uma cópia ordenada.
+O método `sort()` em [[Javascript]] , como arrays em JavaScript, é usado para ordenar os elementos. Por padrão, ele ordena em ordem alfabética ou por valores Unicode. Para ordenação numérica ou personalizada, é necessário fornecer uma função de comparação como argumento. É importante lembrar que `sort()` altera o array original e não retorna uma cópia ordenada.
 
 exemplo simples de como usar o método `sort()` em um array em JavaScript para ordenar números numericamente:
 

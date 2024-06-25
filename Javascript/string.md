@@ -1,4 +1,4 @@
-Uma string em programação é uma sequência de caracteres, como letras, números, espaços ou símbolos, que são utilizados para representar texto. Em JavaScript e em muitas outras linguagens de programação, as strings são geralmente delimitadas por aspas simples ('') ou duplas ("").
+Uma string em programação é uma sequência de caracteres, como letras, números, espaços ou símbolos, que são utilizados para representar texto. Em [[Javascript]] e em muitas outras linguagens de programação, as strings são geralmente delimitadas por aspas simples ('') ou duplas ("").
 
 ### Exemplo com Métodos em JavaScript:
 

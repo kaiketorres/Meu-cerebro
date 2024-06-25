@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46023e4e99509646",
+        "id": "479cdf4a05ae5ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "cf290bbba63018e7",
+            "id": "2691c59127c642ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/Dia-23-06-2024.md",
+                "file": "Diario/Dia-24-06-2024 Crie banco de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/Dia-23-06-2024.md",
+                "file": "Diario/Dia-24-06-2024 Crie banco de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/Dia-23-06-2024.md",
+                "file": "Diario/Dia-24-06-2024 Crie banco de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,24 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/Dia-23-06-2024.md"
+                "file": "Diario/Dia-24-06-2024 Crie banco de dados.md"
               }
             }
           },
           {
-            "id": "a69160ac2536843a",
+            "id": "36c84ba9a98a5936",
             "type": "leaf",
             "state": {
               "type": "timeline",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,13 +151,28 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-day-planner:Timeline": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cf290bbba63018e7",
+  "active": "2691c59127c642ec",
   "lastOpenFiles": [
-    "Front-end/length.md",
-    "Diario/Dia-23-06-2024.md"
+    "Javascript/Funcoes.md",
+    "SQL/Mysql.md",
+    "SQL/introducao ao SQL.md",
+    "Day Planners/Day Planner-20240625.md",
+    "Day Planners/Day Planner-20240624.md",
+    "PHP",
+    "Diario/Dia-24-06-2024 Crie banco de dados.md",
+    "Diario/Dia-23-06-2024 Meu pai tenta mata o lucas.md",
+    "Day Planners/Day Planner-20240623.md",
+    "Javascript/Javascript.md",
+    "Javascript/string.md",
+    "Javascript/length.md",
+    "Javascript/push().md",
+    "Javascript/indexOf().md",
+    "Day Planners",
+    "SQL",
+    "Javascript/sort().md",
+    "SQL"
   ]
 }

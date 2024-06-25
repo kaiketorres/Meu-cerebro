@@ -15,10 +15,10 @@
 - [x] 13:10  Voltando pro trabalho
 - [x] 17:45  Saindo do trabalho
 - [x] 18:00  Começar os Estudos 
-- SQL
-- [x] 19:40  Finalizando estudos noite
-- [/] 20:20  Chegando em casa
-- [ ] 20:30  Iníciando na aula da faculdade / almoço
-- [ ] 22:00  Finalizando aula da faculdade 
-- [ ] 22:10  Higiene noite
-- [ ] 22:40  Dormir
+- Front-end HTML, CSS, JS / SQl
+- [x] 19:25  Finalizando estudos noite
+- [x] 20:20  Chegando em casa
+- [x] 20:30  Iníciando na aula da faculdade / almoço
+- [x] 22:00  Finalizando aula da faculdade 
+- [x] 22:10  Higiene noite
+- [x] 22:40  Dormir

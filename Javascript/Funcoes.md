@@ -1,6 +1,6 @@
 ### Funções em JavaScript
 
-Uma função é um bloco de código que pode ser chamado e executado sempre que necessário. Elas são úteis para agrupar um conjunto de instruções que realizam uma tarefa específica, permitindo reutilização de código e organização lógica.
+Uma função  em [[Javascript]] é um bloco de código que pode ser chamado e executado sempre que necessário. Elas são úteis para agrupar um conjunto de instruções que realizam uma tarefa específica, permitindo reutilização de código e organização lógica.
 
 #### Declaração de uma Função
 

@@ -4,7 +4,7 @@ O MySQL é um sistema de gerenciamento de banco de dados relacional (RDBMS - Rel
 
 1. **Modelo Relacional**: O MySQL organiza os dados em tabelas, que podem ser relacionadas entre si através de chaves estrangeiras, suportando um modelo relacional clássico.
     
-2. **Linguagem [[introducao ao SQL]]**: Ele usa a Structured Query Language (SQL) para definir, manipular e consultar os dados. SQL é um padrão internacionalmente aceito para interação com bancos de dadojs relacionais.
+2. **Linguagem [[SQL]]**: Ele usa a Structured Query Language (SQL) para definir, manipular e consultar os dados. SQL é um padrão internacionalmente aceito para interação com bancos de dadojs relacionais.
     
 3. **Desempenho e Escalabilidade**: O MySQL é conhecido por seu bom desempenho e capacidade de lidar com grandes volumes de dados e usuários simultâneos. Ele pode ser escalado horizontalmente usando técnicas de particionamento e replicação.
     

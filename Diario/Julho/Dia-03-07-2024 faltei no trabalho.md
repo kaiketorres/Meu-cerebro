@@ -1,0 +1,5 @@
+Ontem eu vi que haveria uma greve de ônibus hoje e estava torcendo para que realmente acontecesse. Infelizmente, a greve não ocorreu, mas decidi não ir para o trabalho mesmo assim, e foi a melhor decisão que tomei, haha. Fico tão bem de não precisar ir para aquele lugar. Hoje estudei um pouco sobre React Native e aprendi a usar CSS com a sintaxe do React Native. Achei bem agradável usar CSS com essa nova sintaxe.
+
+Além disso, fui na casa da minha irmã, vi a filha dela e tomei um café junto com minha irmã. Ficamos conversando sobre alguns assuntos. Viu só? Só de faltar naquele emprego horrível já me sinto melhor mentalmente. Amanhã espero que tudo corra bem, e depois de amanhã vou ficar 10 dias em casa por causa das férias. Nossa, 10 dias longe daquele lugar vão ser perfeitos! Vou ficar tão bem. Estou muito feliz com isso e espero que nada de ruim aconteça amanhã.
+
+Bom, é isso. Ah, ontem não esqueci de anotar meu dia. Foi bem tranquilo. Basicamente entregamos as correntes dos pedidos que fizeram ontem e nada de ruim aconteceu. Não me irritei com a Elaine também. Espero muito conseguir outro emprego logo.

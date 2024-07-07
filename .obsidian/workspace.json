@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "479cdf4a05ae5ce9",
+        "id": "2f985bbbba54447a",
         "type": "tabs",
         "children": [
           {
-            "id": "2691c59127c642ec",
+            "id": "71ae5bb14e095264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/Dia-24-06-2024 Crie banco de dados.md",
+                "file": "Javascript/includes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/Dia-24-06-2024 Crie banco de dados.md",
+                "file": "Javascript/includes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/Dia-24-06-2024 Crie banco de dados.md",
+                "file": "Javascript/includes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/Dia-24-06-2024 Crie banco de dados.md"
+                "file": "Javascript/includes.md"
               }
             }
           },
@@ -154,25 +154,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2691c59127c642ec",
+  "active": "71ae5bb14e095264",
   "lastOpenFiles": [
-    "Javascript/Funcoes.md",
-    "SQL/Mysql.md",
-    "SQL/introducao ao SQL.md",
-    "Day Planners/Day Planner-20240625.md",
-    "Day Planners/Day Planner-20240624.md",
-    "PHP",
-    "Diario/Dia-24-06-2024 Crie banco de dados.md",
-    "Diario/Dia-23-06-2024 Meu pai tenta mata o lucas.md",
-    "Day Planners/Day Planner-20240623.md",
-    "Javascript/Javascript.md",
-    "Javascript/string.md",
-    "Javascript/length.md",
-    "Javascript/push().md",
     "Javascript/indexOf().md",
+    "Javascript/operador ternário.md",
+    "Javascript/sort().md",
+    "Javascript/var, let, const.md",
+    "Day Planners/Day Planner-20240707.md",
+    "Day Planners/Julho/Day Planner-20240705.md",
+    "Day Planners/Julho/Day Planner-20240704.md",
+    "Day Planners/Julho/Day Planner-20240703.md",
+    "Day Planners/Julho/Day Planner-20240702.md",
+    "Day Planners/Julho/Day Planner-20240701.md",
+    "Day Planners/Junho/Day Planner-20240629.md",
+    "Day Planners/Junho/Day Planner-20240630.md",
+    "Diario/Julho/Dia-04-07-2024 elaine gorda.md",
+    "Diario/Julho/Dia-03-07-2024 faltei no trabalho.md",
+    "Javascript/use strict.md",
+    "Day Planners/Day Planner-20240705 1.md",
+    "Day Planners/Julho",
+    "Day Planners/Junho/Day Planner-20240623.md",
+    "Day Planners/Junho",
+    "Day Planners/Junho/Day Planner-20240627.md",
+    "Day Planners/Junho/Day Planner-20240626.md",
+    "Diario/Junho/Dia-23-06-2024 Meu pai tenta mata o lucas.md",
+    "Diario/Junho/Dia-24-06-2024 Crie banco de dados.md",
+    "Diario/Junho/Dia-25-06-2024 a fudida da elanine.md",
+    "Diario/Junho/Dia-26-06-2024 elane se fudeu.md",
+    "Diario/Junho/Dia-27-06-2024 silerne elogio.md",
+    "Diario/Junho/Dia-28-06-2024  sei la so to aqui.md",
+    "Diario/Junho/Dia-29-06-2024 curso de js terminado hoje estou feliz.md",
+    "Diario/Julho",
+    "Diario/Junho",
+    "React Native",
+    "Python",
+    "NodeJS",
     "Day Planners",
     "SQL",
-    "Javascript/sort().md",
     "SQL"
   ]
 }

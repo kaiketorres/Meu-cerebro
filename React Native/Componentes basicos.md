@@ -1,6 +1,6 @@
 ### O que é um Componente?
 
-Em [[react native]], um componente é um bloco de construção fundamental para criar interfaces de usuário. Pense em componentes como pequenos pedaços de uma aplicação que podem ser combinados para criar algo maior. Cada componente pode ter seu próprio comportamento e estilo, e você pode reutilizá-los em diferentes partes da sua aplicação.
+Em [[React  Native]], um componente é um bloco de construção fundamental para criar interfaces de usuário. Pense em componentes como pequenos pedaços de uma aplicação que podem ser combinados para criar algo maior. Cada componente pode ter seu próprio comportamento e estilo, e você pode reutilizá-los em diferentes partes da sua aplicação.
 
 Agora, vamos ver alguns dos componentes básicos que você mencionou.
 

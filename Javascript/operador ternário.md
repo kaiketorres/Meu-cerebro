@@ -28,7 +28,7 @@ const podeVotar = idade >= 18 ? 'Pode votar' : 'Não pode votar';
 console.log(podeVotar); // Output: 'Pode votar'
 ```
 
-Exemplo 2: Uso em JSX (React/[[react native]])
+Exemplo 2: Uso em JSX (React/[[React  Native]])
 
 ```
 import React from 'react';

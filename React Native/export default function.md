@@ -1,4 +1,4 @@
-Em [[react native]], `export default function Title()` é uma maneira de definir um componente funcional chamado `Title` que pode ser exportado para ser usado em outras partes do seu aplicativo. Aqui está um exemplo básico de como você pode definir e usar um componente funcional `Title` em React Native:
+Em [[React  Native]], `export default function Title()` é uma maneira de definir um componente funcional chamado `Title` que pode ser exportado para ser usado em outras partes do seu aplicativo. Aqui está um exemplo básico de como você pode definir e usar um componente funcional `Title` em React Native:
 
 ```
 import React from 'react';

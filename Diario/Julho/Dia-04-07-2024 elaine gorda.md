@@ -8,4 +8,4 @@ Subi para o terceiro andar e falei para ela o que o Tico tinha me dito. Até aí
 
 O André, um colega meu, falou para mim que a Noemi não gosta da Elaine. Chegou a dizer assim para o André: "Ô André, aquela GORDA é fofoqueira." Eu caí na risada quando ele me contou isso. A Noemi é uma funcionária da empresa que eu sempre pensei que fosse amiga da Elaine, haha. Mas é isso, esse foi meu dia. Ah, e fumei um na hora do almoço com o André, nada demais.
 
-Meu dia anterior: [[Dia-03-07-2024 faltei no trabalho]]
+Meu dia anterior: [[Dia-04-07-2024 elaine gorda]]

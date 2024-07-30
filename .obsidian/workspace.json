@@ -4,24 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b6cf37cd015e2843",
+        "id": "53d497031ca0d17e",
         "type": "tabs",
         "children": [
           {
-            "id": "5ad3da2170872ba9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "36e239c24f4a1fdc",
+            "id": "c37f8ad4a84f8504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Native/Modal.md",
+                "file": "Javascript/indexOf().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b56ae051c518100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "062bd509fb86d4c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +74,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Native/Modal.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Native/Modal.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Native/Modal.md"
+                "file": "Sem título.md"
               }
             }
           },
@@ -163,37 +179,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d7a4d6b78749d334",
+  "active": "6b56ae051c518100",
   "lastOpenFiles": [
-    "Diario/Junho/Dia-30-06-2024 mimi teve uma crise.md",
-    "Diario/Junho/Dia-29-06-2024 curso de js terminado hoje estou feliz.md",
-    "Diario/Junho/Dia-28-06-2024  sei la so to aqui.md",
-    "Diario/Junho/Dia-27-06-2024 silerne elogio.md",
-    "Diario/Junho/Dia-26-06-2024 elane se fudeu.md",
-    "Diario/Junho/Dia-25-06-2024 a fudida da elanine.md",
-    "Diario/Junho/Dia-24-06-2024 Crie banco de dados.md",
-    "Diario/Junho/Dia-23-06-2024 Meu pai tenta mata o lucas.md",
-    "Diario/Julho/Dia-04-07-2024 elaine gorda.md",
+    "Day Planners/Day Planner-20240728.md",
+    "Javascript/indexOf().md",
+    "Sem título.md",
+    "Day Planners/Day Planner-20240727.md",
+    "Javascript/Slice.md",
+    "Javascript/Método toString().md",
+    "Day Planners/Day Planner-20240725.md",
+    "Day Planners/Day Planner-20240724.md",
+    "Day Planners/Day Planner-20240723.md",
+    "Javascript/Javascript.md",
+    "Day Planners/Day Planner-20240721.md",
+    "Day Planners/Day Planner-20240722.md",
+    "Day Planners/Julho/Day Planner-20240701.md",
+    "Day Planners/Junho/Day Planner-20240627.md",
+    "Day Planners/Junho/Day Planner-20240624.md",
+    "Diario/Julho/Dia-21-07-2024 vou tentar voltar a anotarmeu dia.md",
     "Diario/Julho/Dia-03-07-2024 faltei no trabalho.md",
+    "Javascript/includes.md",
+    "Diario/Julho/Dia-04-07-2024 elaine gorda.md",
+    "Diario/Junho/Dia-23-06-2024 Meu pai tenta mata o lucas.md",
+    "Diario/Junho/Dia-24-06-2024 Crie banco de dados.md",
+    "Diario/Junho/Dia-25-06-2024 a fudida da elanine.md",
+    "Diario/Junho/Dia-26-06-2024 elane se fudeu.md",
+    "Diario/Junho/Dia-27-06-2024 silerne elogio.md",
+    "Diario/Junho/Dia-28-06-2024  sei la so to aqui.md",
+    "Diario/Junho/Dia-29-06-2024 curso de js terminado hoje estou feliz.md",
     "Diario/Junho",
     "Diario/Julho",
     "Diario",
-    "React Native/Modal.md",
-    "React Native/TouchableHighlight && TouchableOpacity.md",
-    "Day Planners/Day Planner-20240712.md",
-    "Day Planners/Julho/Day Planner-20240711.md",
-    "Day Planners/Julho/Day Planner-20240710.md",
-    "React Native/State.md",
-    "React Native/React  Native.md",
-    "React Native/Estados em React Native.md",
-    "React Native/Componentes basicos.md",
-    "NodeJS/Node.js.md",
-    "Javascript/This.md",
-    "Node.js.md",
-    "React Native/Componentes Funcionais.md",
-    "React Native/Componete de Class.md",
-    "Day Planners/Julho/Day Planner-20240709.md",
-    "Day Planners/Julho/Day Planner-20240707.md",
     "Day Planners/Julho",
     "Day Planners/Junho",
     "React Native",

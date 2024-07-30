@@ -2,7 +2,7 @@
 
 ### O que é React Native?
 
-React Native é uma biblioteca de código aberto criada pelo Facebook para desenvolver aplicativos móveis usando JavaScript e React. Com ele, é possível criar aplicativos para iOS e Android a partir de um único código-base.
+React Native é uma biblioteca de código aberto criada pelo Facebook para desenvolver aplicativos móveis usando [[Javascript]] e React. Com ele, é possível criar aplicativos para iOS e Android a partir de um único código-base.
 
 ### Por que usar React Native?
 

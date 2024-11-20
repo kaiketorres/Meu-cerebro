@@ -1,9 +1,0 @@
-Hoje, o dia não foi nem tão bom nem tão ruim. Fiz minha rotina matinal: me arrumei, escovei os dentes, arrumei o cabelo e fumei um cigarro. Saí de casa, e a Juliana não estava me esperando. Tudo bem, eu até prefiro subir sozinho. A sensação de sair de casa de manhã e não ver quase ninguém é maravilhosa. Peguei o ônibus e tudo correu bem. Cheguei no trabalho, e a manhã foi tranquila.
-
-Na hora do almoço, tentei estudar um pouco de React, mas não estava entendendo nada. Voltei ao trabalho e precisava entregar duas correntes. As correntes são compostas por corações de chapa, com argolas soldadas. A Elaine soldou as argolas, mas como sou um desastre, consegui estragar todos os corações. Ao dar o acabamento, acabei lixando as argolas junto e elas ficaram muito frágeis, quebrando com facilidade. Como de costume, a Elaine tentou me humilhar do jeito que ela faz, e isso me deixou com muito ódio dela.
-
-Consegui arrumar uma das correntes, e amanhã vou fazer a outra e entregá-la. Não tem como dar errado dessa vez, a menos que Deus realmente me odeie muito. Após o trabalho, encontrei um curso gratuito de React Native muito bom e estou começando a entender melhor. Quando cheguei em casa, minha irmã não falou comigo. Não sei o motivo, mas decidi não irritá-la, lembrando da minha promessa.
-
-No entanto, percebi que nem minha irmã quer estar perto de mim. Será que sou eu o problema no mundo? Apesar de tudo, eu me odeio mais que tudo. Espero um dia começar a gostar de mim, mas no momento não me importo comigo mesmo. Sei como posso voltar a me importar, mas não quero fazer isso novamente.
-
-Meu dia anterior: [[Dia-30-06-2024 mimi teve uma crise]]

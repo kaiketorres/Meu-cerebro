@@ -1,4 +1,4 @@
-Claro! A função `includes` em [[Javascript]] é usada para verificar se um determinado valor existe em um array (vetor). Ela retorna `true` se o valor estiver presente no array e `false` se não estiver.
+A função `includes` em [[Javascript]] é usada para verificar se um determinado valor existe em um array (vetor). Ela retorna `true` se o valor estiver presente no array e `false` se não estiver.
 
 ### Como funciona o `includes`
 

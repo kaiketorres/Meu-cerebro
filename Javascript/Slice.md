@@ -1,5 +1,3 @@
-Vamos explorar o método `slice` em [[Javascript]] / React , que é usado para manipular strings (e arrays). No contexto do seu código, estamos lidando com strings. Aqui está uma explicação detalhada:
-
 ### Método `slice`
 
 O método `slice` é usado para extrair uma parte de uma string sem modificar a string original. Ele retorna uma nova string que contém os caracteres da string original, começando no índice especificado até, mas não incluindo, o índice de término especificado.

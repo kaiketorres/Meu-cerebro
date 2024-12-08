@@ -1,5 +1,5 @@
 
-# Comando CHAR no SQL
+# Comando CHAR no [[SQL]]
 
 ## O que é [[Char]]?
 `CHAR` é um tipo de dado em SQL usado para armazenar **cadeias de caracteres de tamanho fixo**. Isso significa que, independentemente do número de caracteres inseridos, o espaço reservado será sempre o mesmo.

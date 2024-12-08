@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/chave-primaria.md",
+                "file": "NodeJS/Modulo_HTTP_NodeJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chave-primaria"
+              "title": "Modulo_HTTP_NodeJS"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/chave-primaria.md"
+                "file": "NodeJS/Modulo_HTTP_NodeJS.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de chave-primaria"
+              "title": "Sumário de Modulo_HTTP_NodeJS"
             }
           }
         ],
@@ -162,8 +162,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d7a4d6b78749d334",
+  "active": "c37f8ad4a84f8504",
   "lastOpenFiles": [
+    "NodeJS/Metodo_listen_NodeJS.md",
+    "NodeJS/Modulo_HTTP_NodeJS.md",
+    "Javascript/Slice.md",
+    "SQL/Char.md",
+    "Javascript/Math.pow.md",
+    "Javascript/Try_Catch_Throw.md",
+    "NodeJS/readFile.md",
+    "NodeJS/Node.js.md",
+    "SQL/ALTER_TABLE.md",
+    "SQL/chave-primaria.md",
     "React Js && React Native/Componentes Funcionais.md",
     "React Js && React Native/useState.md",
     "React Js && React Native/export default function.md",
@@ -180,17 +190,7 @@
     "React Js && React Native/JSX.md",
     "React Js && React Native/FlatList.md",
     "React Js && React Native/Estados em React Native.md",
-    "React Js && React Native/CreateStackNavigator.md",
-    "React Js && React Native/Componete de Class.md",
-    "React Js && React Native/Componentes basicos.md",
     "React Js && React Native",
-    "Javascript/trim().md",
-    "Javascript/toString.md",
-    "Javascript/splice.md",
-    "Javascript/getComputedStyle.md",
-    "Javascript/continue_break_notes.md",
-    "Javascript/Try_Catch_Throw.md",
-    "Javascript/Spread == Espalhar ou copiar.md",
     "Day Planners",
     "Diario/Junho",
     "Diario/Julho",

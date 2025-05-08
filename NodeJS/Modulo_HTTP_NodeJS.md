@@ -1,4 +1,4 @@
-
+	
 # Módulo `http` em [[Node.js]]
 
 O módulo **`http`** em Node.js é um dos principais módulos embutidos na linguagem, usado para criar e gerenciar servidores HTTP. Ele permite manipular tanto requisições quanto respostas HTTP.
